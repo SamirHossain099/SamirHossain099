@@ -22,26 +22,18 @@ Currently pursuing an M.S. in Electrical Engineering at **Texas Tech University*
 ### 📌 Featured Course Projects (Pinned)
 | Project | What it is | Stack |
 |---|---|---|
-| 🎯 **AI Turret** | Jetson-based target tracking & servo control (YOLOv8). | Python · PyTorch · OpenCV · Jetson |
-| 🚗 **Smart RC Car** | Wireless RC with live video and telemetry. | ESP32 · C/C++ · UDP |
-| 🤖 **Autonomous Rover** | FPGA rover with ball tracking + avoidance. | Verilog/VHDL · Basys-3 |
-
-**Repos:**  
-- Turret → **<https://github.com/nrethans/ECE-3331-Robotics-Project-Lab>**  
-- Autonomous Rover → **<https://github.com/SamirHossain099/ECE-3332-Microcontroller-Project-Lab>**  
-- Smart RC Car → **<https://github.com/SamirHossain099/ECE-3334-Digital-Communications-Project-Lab>**
+| 🎯 [**AI Turret**](https://github.com/nrethans/ECE-3331-Robotics-Project-Lab) | Jetson-based target tracking & servo control (YOLOv8). | Python · PyTorch · OpenCV · Jetson |
+| 🚗 [**Smart RC Car**](https://github.com/SamirHossain099/ECE-3334-Digital-Communications-Project-Lab) | Wireless RC with live video and telemetry. | ESP32 · C/C++ · UDP |
+| 🤖 [**Autonomous Rover**](https://github.com/SamirHossain099/ECE-3332-Microcontroller-Project-Lab) | FPGA rover with ball tracking + avoidance. | Verilog/VHDL · Basys-3 |
 
 ---
 
 ### 🧠 Research Highlights
 *(Repos private / in-progress — view summaries & media on the site.)*
 
-- **CottonSense** — Tractor-mounted, **in-field cotton yield estimation & disease detection** with synchronized camera rigs and CV models.  
-  → Read more: **[Research: CottonSense](https://www.samirhossain.com/#/research)**  
-- **Root Imaging System** — Automated **multi-view 360° imaging** for plants; moving toward **3D reconstruction & trait estimation**.  
-  → Read more: **[Research: Root Imaging](https://www.samirhossain.com/#/research)**  
-- **Seizure Suppression via Cognitive Effort** *(pilot)* — EEG signal processing + analysis tooling.  
-  → Read more: **[Research: EEG Pilot](https://www.samirhossain.com/#/research)**
+- [**CottonSense**](https://www.samirhossain.com/#/research) — Tractor-mounted, **in-field cotton yield estimation & disease detection** with synchronized camera rigs and CV models.  
+- [**Root Imaging System**](https://www.samirhossain.com/#/research) — Automated **multi-view 360° imaging** for plants; moving toward **3D reconstruction & trait estimation**.  
+- [**Seizure Suppression via Cognitive Effort**](https://www.samirhossain.com/#/research) *(pilot)* — EEG signal processing + analysis tooling.
 
 ---
 
