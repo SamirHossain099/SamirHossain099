@@ -22,9 +22,9 @@ Currently pursuing an M.S. in Electrical Engineering at **Texas Tech University*
 ### 📌 Featured Course Projects (Pinned)
 | Project | What it is | Stack |
 |---|---|---|
-| 🎯 [**AI Turret**](https://github.com/nrethans/ECE-3331-Robotics-Project-Lab) | Jetson-based target tracking & servo control (YOLOv8). | Python · PyTorch · OpenCV · Jetson |
+| 🎯 [**AI Turret**](https://github.com/SamirHossain099/ECE-3332-Microcontroller-Project-Lab) | Jetson-based target tracking & servo control (YOLOv8). | Python · PyTorch · OpenCV · Jetson |
 | 🚗 [**Smart RC Car**](https://github.com/SamirHossain099/ECE-3334-Digital-Communications-Project-Lab) | Wireless RC with live video and telemetry. | ESP32 · C/C++ · UDP |
-| 🤖 [**Autonomous Rover**](https://github.com/SamirHossain099/ECE-3332-Microcontroller-Project-Lab) | FPGA rover with ball tracking + avoidance. | Verilog/VHDL · Basys-3 |
+| 🤖 [**Autonomous Rover**](https://github.com/nrethans/ECE-3331-Robotics-Project-Lab) | FPGA rover with ball tracking + avoidance. | Verilog/VHDL · Basys-3 |
 
 ---
 
