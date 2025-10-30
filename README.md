@@ -32,7 +32,7 @@ Currently pursuing an M.S. in Electrical Engineering at **Texas Tech University*
 *(Repos private / in-progress — view summaries & media on the site.)*
 
 - [**CottonSense**](https://www.samirhossain.com/#/research) - **In-field cotton yield estimation & disease detection** with synchronized camera rigs and CV models.  
-- [**Root Imaging System**](https://www.samirhossain.com/#/research) - Automated **multi-view 360° imaging** for plants; moving toward **3D reconstruction & trait estimation**.  
+- [**Root Phenotyping System**](https://www.samirhossain.com/#/research) - Automated **multi-view 360° imaging** for plants; moving toward **3D reconstruction & trait estimation**.  
 - [**Seizure Suppression via Cognitive Effort**](https://www.samirhossain.com/#/research) *(pilot)* - EEG signal processing + analysis tooling.
 
 ---
